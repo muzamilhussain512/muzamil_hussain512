@@ -17,7 +17,7 @@ Professional portfolio website showcasing 9+ years of experience in Data Science
 ## 📁 Complete File Structure
 
 ```
-muzamilhussain512.github.io/
+muzamil_hussain512.github.io/
 ├── index.html                              ← Main portfolio page
 ├── favicon-32x32.png                       ← Site icon (optional)
 └── assets/
@@ -38,7 +38,7 @@ muzamilhussain512.github.io/
 
 1. Go to [GitHub.com](https://github.com) and sign in
 2. Click the **"+"** button (top right) → **"New repository"**
-3. **Repository name:** `muzamilhussain512.github.io`
+3. **Repository name:** `muzamil_hussain512.github.io`
    - ⚠️ Must use **your exact GitHub username**
 4. Set to **Public**
 5. **Do NOT** initialize with README
@@ -64,8 +64,8 @@ You have TWO options:
 
 ```bash
 # Clone your repository
-git clone https://github.com/muzamilhussain512/muzamilhussain512.github.io.git
-cd muzamilhussain512.github.io
+git clone https://github.com/muzamilhussain512/muzamil_hussain512.github.io.git
+cd muzamil_hussain512.github.io
 
 # Copy all portfolio files to this directory
 # Make sure the structure matches the file structure above
@@ -93,7 +93,7 @@ git push origin main
 ### **Step 4: View Your Live Portfolio! 🎉**
 
 Your portfolio is now live at:
-### **https://muzamilhussain512.github.io**
+### **https://muzamil_hussain512.github.io**
 
 Share this link everywhere:
 - LinkedIn profile
@@ -232,7 +232,7 @@ Common icons:
 📧 **Email:** muzamilhussain893@gmail.com  
 📱 **Phone:** +92-332-9514-090  
 💼 **LinkedIn:** [linkedin.com/in/muzamil-hussain-data-scientist](https://linkedin.com/in/muzamil-hussain-data-scientist/)  
-🐙 **GitHub:** [github.com/muzamilhussain512](https://github.com/muzamilhussain512)
+🐙 **GitHub:** [github.com/muzamil_hussain512](https://github.com/muzamil_hussain512)
 
 ---
 
@@ -279,7 +279,7 @@ Common icons:
 ## 🎉 Congratulations!
 
 Your professional portfolio is now live at:
-### **https://muzamilhussain512.github.io**
+### **https://muzamil_hussain512.github.io**
 
 **I am hopeful; the future is bright.** ✨
 
